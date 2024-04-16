@@ -1,5 +1,5 @@
 ![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
-![ci-tests](https://github.com/jonasjonasjo/repository/actions/workflows/ci-tests/badge.svg)
+![ci-tests](https://github.com/jonasjonasjo/glowing-broccoli/actions/workflows/tests.yml/badge.svg)
 
 # glowing-broccoli
 
@@ -17,7 +17,7 @@ We take code quality seriously and use a robust testing suite to ensure function
 
 **Build Status:**
 
-![ci-tests](https://github.com/jonasjonasjo/repository/actions/workflows/ci-tests/badge.svg)
+![ci-tests](https://github.com/jonasjonasjo/glowing-broccoli/actions/workflows/tests.yml/badge.svg)
 
 You can run the tests locally by following these steps:
 
